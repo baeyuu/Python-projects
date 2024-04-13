@@ -2,8 +2,8 @@
 
 ### Table of Content
 
-- [Project 1](Project-1)
-- [Project 2](Project-2)
+- [Project 1](Project1)
+- [Project 2](Project2)
 
 ## PROJECT 1
 Machine Learning Project: Building Insurance Prediction
